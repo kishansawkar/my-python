@@ -1,0 +1,9 @@
+#Count Digits of a Number
+num = int(input("Enter a number: "))
+count = 0
+while num != 0:
+    num //= 20
+    count += 1
+print("Number of digits:", count)
+print("kishan sawkar")
+print("AI ML")
