@@ -1,0 +1,5 @@
+# for while loop
+num=1
+while num<=5:
+  print(num,"D BOSS")
+  num=num+1
