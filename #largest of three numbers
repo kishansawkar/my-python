@@ -1,0 +1,8 @@
+
+num1=int(input("enter the first number:"))
+num2=int(input("enter the second number:"))
+num3=int(input("enter the third number:"))
+if num1>=num2 and num1>=num3:
+  print("the largeat number",num1)
+  print("the largest number",num2)
+  print("the largest number",num3)
